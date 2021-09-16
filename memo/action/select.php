@@ -24,4 +24,4 @@
         'content' => $result['content']
     ];
     header('Location: ../../memo/');
-    exit;
+    exit; 
