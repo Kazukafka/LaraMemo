@@ -9,11 +9,11 @@ if(!isset($_SESSION)){
  * @return bool
  */
 function isLogin() {
-  if (isset($_SESSION['user'])) {
-      return true;
-  }
+    if (isset($_SESSION['user'])) {
+        return true;
+    }
 
-  return false;
+    return false;
 }
 
 /**
@@ -21,17 +21,17 @@ function isLogin() {
  * @return string
  */
 function getLoginUserName() {
-  if (isset($_SESSION['user'])) {
-      $name = $_SESSION['user']['name'];
+    if (isset($_SESSION['user'])) {
+        $name = $_SESSION['user']['name'];
 
-      if (7 < mb_strlen($name)) {
-          $name = mb_substr($name, 0, 7) . "...";
-      }
+        if (7 < mb_strlen($name)) {
+            $name = mb_substr($name, 0, 7) . "...";
+        }
 
-      return $name;
-  }
+        return $name;
+    }
 
-  return "";
+    return "";
 }
 
 /**
@@ -39,10 +39,9 @@ function getLoginUserName() {
  * @return |null
  */
 function getLoginUserId() {
-  if (isset($_SESSION['user'])) {
-      return $_SESSION['user']['id'];
-  }
+    if (isset($_SESSION['user'])) {
+        return $_SESSION['user']['id'];
+    }
 
-  return null;
+    return null;
 }
-

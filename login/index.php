@@ -5,8 +5,12 @@
     if(isLogin()) {
         header('Location: ../memo/');
         exit;
-    }   
-    require '../common/auth.php';
+    } 
+    //↓ミスの原因
+    //Fatal error: Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+    //↑エラーコード
+    //FatalErrorはrequireが重複しているときにおこる  
+    //require '../common/auth.php';
 
     if(isLogin()) {
         header('Location: ../memo/');

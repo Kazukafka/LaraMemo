@@ -40,7 +40,7 @@
                         </div>
                         <div class="pr-1">
                             <a href="./action/add.php" class="btn btn-success"><i class="fas fa-plus"></i></a>
-                            <a href="../login/" class="btn btn-dark"><i class="fas fa-sign-out-alt"></i></a>
+                            <a href="./action/logout.php" class="btn btn-dark"><i class="fas fa-sign-out-alt"></i></a>
                         </div>
                     </div>
                     <div class="left-memo-title h3 pl-3 pt-3">
@@ -72,7 +72,6 @@
                     </div>
                 </div>
                 <div class="col-9 h-100">
-
                     <?php if(isset($_SESSION['select_memo'])): ?>
                         <form class="w-100 h-100" method="post">
                             <input type="hidden" name="edit_id" value="<?php echo $edit_id; ?>" />
@@ -87,7 +86,6 @@
                         <div class="mt-3 alert alert-info">
                             <i class="fas fa-info-circle"></i>メモを新規作成するか選択してください。
                         </div>
-
                     <?php endif; ?>
                 </div>
             </div>

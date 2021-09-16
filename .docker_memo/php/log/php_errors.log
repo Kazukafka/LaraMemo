@@ -21,3 +21,140 @@ Stack trace:
 [16-Sep-2021 23:03:14 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
 [16-Sep-2021 23:03:27 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
 [16-Sep-2021 23:03:27 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
+[16-Sep-2021 23:06:38 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:06:38 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:06:54 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:06:55 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:06:56 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:06:56 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:06:57 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:06:57 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:07:54 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:07:54 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:08:08 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:08:08 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:08:10 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:08:10 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:08:11 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:08:11 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:08:11 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:08:11 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:08:28 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:08:29 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:09:28 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:09:28 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:53 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:53 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:54 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:54 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:54 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:54 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:54 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:54 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:54 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:54 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:55 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:55 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:55 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:55 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:10:55 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:11:37 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:11:37 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:11:43 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:11:43 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:11:52 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:11:52 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:12:07 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:12:07 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:21 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:22 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:22 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:22 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:22 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:22 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:22 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:23 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:23 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:23 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:23 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:23 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:23 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:23 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:23 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:23 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:13:24 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:17:53 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:17:54 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:18:15 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:18:16 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:18:20 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:18:21 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:19:28 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:19:29 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:20:34 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function isLogin() in /var/www/html/login/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login/index.php on line 5
+[16-Sep-2021 23:20:34 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function isLogin() in /var/www/html/login/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login/index.php on line 5
+[16-Sep-2021 23:21:35 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function isLogin() in /var/www/html/login/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login/index.php on line 5
+[16-Sep-2021 23:21:35 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function isLogin() in /var/www/html/login/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login/index.php on line 5
+[16-Sep-2021 23:21:36 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function isLogin() in /var/www/html/login/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login/index.php on line 5
+[16-Sep-2021 23:21:36 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function isLogin() in /var/www/html/login/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login/index.php on line 5
+[16-Sep-2021 23:21:41 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:41 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:41 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:41 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:41 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:41 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:41 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:41 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:41 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:42 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:42 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:42 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:42 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:42 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:42 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:42 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:42 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:42 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:42 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:42 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:43 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:43 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:43 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:21:43 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:26:18 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:26:19 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:26:59 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:27:00 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:27:00 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:27:00 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:27:01 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:27:01 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:27:01 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:27:01 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:27:01 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:27:01 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:29:21 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:29:22 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:29:30 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:29:31 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:32:12 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
+[16-Sep-2021 23:32:31 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 50
+[16-Sep-2021 23:32:35 Asia/Tokyo] PHP Fatal error:  Cannot redeclare isLogin() (previously declared in /var/www/html/common/auth.php:12) in /var/www/html/common/auth.php on line 11
